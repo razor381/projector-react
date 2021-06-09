@@ -1,0 +1,55 @@
+.main {
+  color: white;
+}
+
+.header {
+  background: #353b48;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  padding: 3rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 4em;
+}
+
+.title__sub-text {
+  color: #44bd32;
+}
+
+.forms {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: 7rem auto 0;
+}
+
+.form {
+  flex: 1;
+}
+
+.user-form {
+  flex: 1,
+
+}
+
+.post-form {
+  flex: 1,
+
+}
+
+.lists-container {
+  width: 100%;
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
+.users-list {
+  flex: 1;
+}
+
+.posts-list {
+  flex: 2.5;
+}

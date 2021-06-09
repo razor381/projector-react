@@ -1,0 +1,17 @@
+.post-content {
+}
+
+.post-image {
+  width: 100%;
+  height: 25rem;
+  object-fit: cover;
+}
+
+.post-name {
+  font-size: 1.3em;
+  text-transform: capitalize;
+}
+
+.email {
+  color: black;
+}
