@@ -1,0 +1,28 @@
+.comment-group {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.comment-text {
+  background-color: #ebebeb;
+  padding: 0.5rem 0.6rem;
+  border-radius: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.comment-username {
+  font-weight: bold;
+}
+
+.control-btn {
+  padding: 0;
+  background: inherit;
+  color: #666;
+  font-size: inherit;
+  margin: 0.4rem 0.6rem 0 0;
+}
+
+.control-btn:hover,
+.control-btn:focus {
+  text-decoration: underline;
+}

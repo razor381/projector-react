@@ -1,0 +1,14 @@
+.photo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 4rem;
+  padding: 0.3rem;
+  border: 0.15rem solid #44bd32;
+}
+
+.photo--tiny {
+  border: none;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+}

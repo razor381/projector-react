@@ -1,0 +1,27 @@
+.header {
+  color: white;
+  background: #353b48;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  padding: 1rem 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title__sub-text {
+  color: var(--primary);
+}
+
+.right-content {
+  display: flex;
+  align-items: center;
+}
+
+.header__nav-btn {
+  font-size: 1em;
+  margin: 0 1rem;
+}
+
+.user-icon {
+  margin-right: 2rem;
+}

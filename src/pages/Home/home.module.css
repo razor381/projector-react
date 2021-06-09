@@ -1,0 +1,15 @@
+.main {
+  color: white;
+}
+
+.title {
+  font-size: 3em;
+}
+
+.lists-container {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 4rem;
+  justify-content: center;
+}
